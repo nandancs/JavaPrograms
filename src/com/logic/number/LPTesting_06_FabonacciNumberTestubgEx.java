@@ -1,7 +1,7 @@
 package com.logic.number;
 
 
-public class LPTesting_05_FabonacciNumberTestubgEx {
+public class LPTesting_06_FabonacciNumberTestubgEx {
 	static int n1 = 0, n2 = 1, number = 10;
 	public static void main(String[] args) {
 		
