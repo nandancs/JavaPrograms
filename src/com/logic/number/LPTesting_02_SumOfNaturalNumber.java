@@ -1,6 +1,6 @@
 package com.logic.number;
 
-public class SumOfNaturalNumber {
+public class LPTesting_02_SumOfNaturalNumber {
 
 	public static void main(String[] args) {
 		System.out.println();

@@ -1,6 +1,6 @@
 package com.logic.number;
 
-public class MultiplicationTable {
+public class LPTesting_06_MultiplicationTable {
 
 	public static void main(String[] args) {
 		System.out.println();

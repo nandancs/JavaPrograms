@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class CheckSumAndGetIndex {
+public class LPTesting_04_CheckSumAndGetIndex {
 
 	public static void main(String[] args) {
 		int[] nums = new int[] { 3, 2, 3 };

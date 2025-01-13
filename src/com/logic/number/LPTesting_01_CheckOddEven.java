@@ -2,7 +2,7 @@ package com.logic.number;
 
 import java.util.Scanner;
 
-public class CheckOddEven {
+public class LPTesting_01_CheckOddEven {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);		
 		Integer number = null;

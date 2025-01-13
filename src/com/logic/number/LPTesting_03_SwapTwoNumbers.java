@@ -1,6 +1,6 @@
 package com.logic.number;
 
-public class SwapTwoNumbers {
+public class LPTesting_03_SwapTwoNumbers {
 
 	public static void main(String[] args) {
 		int a = 10, b = 20;

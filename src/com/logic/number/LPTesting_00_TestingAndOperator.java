@@ -1,6 +1,6 @@
 package com.logic.number;
 
-public class TestingAndOperator {
+public class LPTesting_00_TestingAndOperator {
 
 	public static void main(String[] args) {
 		System.out.println(8 & 1);//0
