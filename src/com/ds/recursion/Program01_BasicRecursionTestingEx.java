@@ -1,6 +1,6 @@
 package com.ds.recursion;
 
-public class BasicRecursionTestingEx {
+public class Program01_BasicRecursionTestingEx {
 
 	public static void main(String[] args) {
 		int x = 5;
